@@ -1,4 +1,4 @@
-#**SINAN**
+# **SINAN**
 
 A escolha do dataset sobre dengue do Sistema de Informação de Agravos de Notificação (SINAN) para o ano de 2023 é relevante por várias razões:
 
@@ -12,7 +12,7 @@ A escolha do dataset sobre dengue do Sistema de Informação de Agravos de Notif
 
 **Pesquisa Científica:** O dataset serve de base para estudos acadêmicos e pesquisas sobre dengue, incluindo modelagem epidemiológica, análise de fatores de risco, avaliação de intervenções de saúde e elaboração de novas estratégias de controle de doença.
 
-#**Dicionário de dados**
+# **Dicionário de dados**
 
 TP_NOT:
 
@@ -134,7 +134,7 @@ MIGRADO_W:
 - Descrição: Indicador de migração.
 - Observações: Pode indicar se os dados foram migrados de outro sistema ou fonte.
 
-#**Dicentes**
+# **Dicentes**
 
 Davi artur 
 Débora de Freitas 
