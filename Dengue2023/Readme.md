@@ -136,12 +136,12 @@ MIGRADO_W:
 
 # **Dicentes**
 
-Davi artur 
-Débora de Freitas 
-Guilherme Santiago
-Juan Henrique 
-Mateus caik 
-Micaelle silva
+* Davi artur 
+* Débora de Freitas 
+* Guilherme Santiago
+* Juan Henrique 
+* Mateus caik 
+* Micaelle silva
 
 
 
