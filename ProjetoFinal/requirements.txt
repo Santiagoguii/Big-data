@@ -1,0 +1,4 @@
+pysus==0.5.0
+pandas==1.4.0
+matplotlib==3.5.1
+pyspark==3.2.0
